@@ -1,6 +1,7 @@
 +++
 date = '2025-08-02T13:36:16+05:30'
 draft = false
+tags = ["thoughts","first","about"]
 title = 'Venerable Reverie'
 +++
 
