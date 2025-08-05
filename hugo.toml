@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://venerable-reverie.netlify.app/'
 languageCode = 'en-us'
 title = 'Venerable Reverie - Notins'
 theme = "PaperMod"
